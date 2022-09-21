@@ -1,0 +1,114 @@
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\appsettings.Development.json
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\appsettings.json
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\Ocelot.json
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\eAuction.APIGateway.exe
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\eAuction.APIGateway.deps.json
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\eAuction.APIGateway.runtimeconfig.json
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\eAuction.APIGateway.runtimeconfig.dev.json
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\eAuction.APIGateway.dll
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\ref\eAuction.APIGateway.dll
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\eAuction.APIGateway.pdb
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\FluentValidation.dll
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\Ocelot.dll
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sampath FSD\FSE\APIGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\eAuction.APIGateway.csproj.AssemblyReference.cache
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\eAuction.APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\eAuction.APIGateway.AssemblyInfoInputs.cache
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\eAuction.APIGateway.AssemblyInfo.cs
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\eAuction.APIGateway.csproj.CoreCompileInputs.cache
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\eAuction.APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\eAuction.APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\staticwebassets\eAuction.APIGateway.StaticWebAssets.Manifest.cache
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\staticwebassets\eAuction.APIGateway.StaticWebAssets.xml
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\scopedcss\bundle\eAuction.APIGateway.styles.css
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\eAuction.APIGateway.RazorTargetAssemblyInfo.cache
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\eAuction.APIGateway.csproj.CopyComplete
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\eAuction.APIGateway.dll
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\ref\eAuction.APIGateway.dll
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\eAuction.APIGateway.pdb
+D:\Sampath FSD\FSE\APIGateway\obj\Debug\net5.0\eAuction.APIGateway.genruntimeconfig.cache
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\appsettings.Development.json
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\appsettings.json
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\Ocelot.json
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\eAuction.ApiGateway.exe
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\eAuction.ApiGateway.deps.json
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\eAuction.ApiGateway.runtimeconfig.json
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\eAuction.ApiGateway.runtimeconfig.dev.json
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\eAuction.ApiGateway.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\ref\eAuction.ApiGateway.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\eAuction.ApiGateway.pdb
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\FluentValidation.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\Ocelot.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.csproj.AssemblyReference.cache
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.AssemblyInfoInputs.cache
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.AssemblyInfo.cs
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.csproj.CoreCompileInputs.cache
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\staticwebassets\eAuction.ApiGateway.StaticWebAssets.Manifest.cache
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\staticwebassets\eAuction.ApiGateway.StaticWebAssets.xml
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\scopedcss\bundle\eAuction.ApiGateway.styles.css
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.RazorTargetAssemblyInfo.cache
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.csproj.CopyComplete
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\ref\eAuction.ApiGateway.dll
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.pdb
+D:\Sampath FSD\FSE\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.genruntimeconfig.cache
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\appsettings.Development.json
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\appsettings.json
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\Ocelot.json
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\eAuction.ApiGateway.exe
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\eAuction.ApiGateway.deps.json
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\eAuction.ApiGateway.runtimeconfig.json
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\eAuction.ApiGateway.runtimeconfig.dev.json
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\eAuction.ApiGateway.dll
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\ref\eAuction.ApiGateway.dll
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\eAuction.ApiGateway.pdb
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\FluentValidation.dll
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\Ocelot.dll
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\fse\eAuction.ApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.AssemblyInfoInputs.cache
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.AssemblyInfo.cs
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.csproj.CoreCompileInputs.cache
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\staticwebassets\eAuction.ApiGateway.StaticWebAssets.Manifest.cache
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\staticwebassets\eAuction.ApiGateway.StaticWebAssets.xml
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\scopedcss\bundle\eAuction.ApiGateway.styles.css
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.RazorTargetAssemblyInfo.cache
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.dll
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\ref\eAuction.ApiGateway.dll
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.pdb
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.genruntimeconfig.cache
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.csproj.CopyComplete
+D:\fse\eAuction.ApiGateway\obj\Debug\net5.0\eAuction.ApiGateway.csproj.AssemblyReference.cache
