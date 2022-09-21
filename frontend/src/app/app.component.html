@@ -1,0 +1,43 @@
+<!-- <div class="container">
+  <h1>My App</h1>
+
+<app-new-company></app-new-company>
+<app-upload-excel></app-upload-excel>
+<app-compare-charts></app-compare-charts>
+<app-add-company></app-add-company>
+<app-edit-company></app-edit-company>
+</div> -->
+
+<div class="container">
+  <h1>Stock market charting application</h1>
+  <div class="topnav">
+    
+    <a [routerLink]="['home']">Compare charts</a>
+    <a [routerLink]="['login']">Login</a>
+    <a [routerLink]="['signup']">Sign Up</a>
+    <a [routerLink]="['new-company']">Add company</a>
+    <a [routerLink]="['upload-excel']">Upload excel</a>
+    <a [routerLink]="['manage-companies']">Manage Companies</a>
+    <a [routerLink]="['login']" (click)="getLogout()">Logout</a>
+  </div>
+  <router-outlet></router-outlet>
+</div>
+
+<!-- <h1>Hello User</h1>
+
+<table *ngIf="message==null">
+    <tr>
+        <th>id</th>
+        <th>employee_name</th>
+        <th>employee_salary</th>
+        <th>employee_age</th>
+    </tr>
+    <tr *ngFor="let emp of emps">
+        <td>{{emp.id}}</td>
+        <td>{{emp.employee_name}}</td>
+        <td>{{emp.employee_salary}}</td>
+        <td>{{emp.employee_age}}</td>
+    </tr>
+</table>
+
+<p *ngIf="message!=null">{{message}}</p> -->

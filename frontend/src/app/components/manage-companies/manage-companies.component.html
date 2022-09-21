@@ -1,0 +1,14 @@
+<h3 class="text-center text-primary">List of Companies</h3>
+
+<table *ngIf="message==null" class="table table-sm">
+    <tr class = "table-secondary" *ngFor="let cmp of cmps">
+        <!-- <td>{{cmp.id}}</td> -->
+        <td>{{cmp.name}}</td>
+        <td>{{cmp.brief}} </td>
+        <td>{{cmp.ceo}}</td>
+        <!-- <td>{{cmp.sector_id}}</td> -->
+        <td><button type="submit" class="btn btn-secondary">Edit</button></td>
+    </tr>
+</table>
+
+<p *ngIf="message!=null">{{message}}</p>
